@@ -35,3 +35,7 @@ Based on official W3C documentation and examples:
 
 - [Switch Pattern Specification](https://www.w3.org/WAI/ARIA/apg/patterns/switch/)
 - [Official W3C Implementation Example](https://www.w3.org/WAI/ARIA/apg/patterns/switch/examples/switch/)
+
+## Screen
+
+![Form with switch component](image.png)
